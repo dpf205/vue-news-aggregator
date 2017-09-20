@@ -32,7 +32,7 @@
 		},
 		methods: {
 			updateSource: function (source){
-				this.$http.get('https://newsapi.org/v1/articles?source=' + source + '&apiKey=289a750ccc8041148475c372ffc976fc')
+				this.$http.get('https://newsapi.org/v1/articles?source=' + source + '&apiKey=[add news api key here]')
 					.then((response) => {
 						this.articles = response.data.articles;
 					});
