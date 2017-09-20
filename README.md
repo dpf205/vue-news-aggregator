@@ -1,7 +1,9 @@
 # vue-news-aggregator
 
 > A Vue.js 2 news aggregation service project using the News API(https://newsapi.org/#documentation)
+>
 > Heroku deployment: https://vue-news-aggregator.herokuapp.com/#/
+>
 > Vue.js app deployment to Heroku: http://www.travisluong.com/how-to-deploy-a-vue-js-app-to-heroku/
 
 ## Build Setup
